@@ -1,8 +1,8 @@
 {
-   "name": "⚡️𝐒 𝐘 𝐍 𝐀 𝐗⚡️",
+   "name": "⚡️𝐌 𝐎 𝐎 𝐍⚡️",
    "description": "",
-   "repository": "https://github.com/synax10/BANALL",
-   "logo": "https://telegra.ph/file/a32783a91999e9774054a.jpg",
+   "repository": "https://github.com/Moonshining6/BANALL",
+   "logo": "https://telegra.ph/file/d557c20c6054491d2c20a.jpg",
    "image": "heroku/python",
    "env": {
       "API_ID": {
